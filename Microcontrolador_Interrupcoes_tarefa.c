@@ -95,6 +95,8 @@ int num_frames = sizeof(animacao_1) / sizeof(animacao_1[0]);
 double* animacao_2[] = {frame0, frame1, frame2, frame3, frame4, frame5, frame6, frame7, frame8, frame9};
 int num_desenhos2 = sizeof(animacao_2) / sizeof(animacao_2[0]);
 
+double* animacao_3[] = {frame00, frame01, frame02, frame03, frame04, frame05, frame06, frame07, frame08, frame09};
+int num_desenhos3 = sizeof(animacao_3) / sizeof(animacao_3[0]);
 
 double* animacao_4[] = {desenho1_1, desenho2_2, desenho3_3, desenho4_4, desenho5_5, desenho6_6, desenho7_7, desenho8_8, desenho9_9, desenho10_10, desenho11_11, desenho12_12, desenho13_13, desenho14_14, desenho15_15};
 int num_desenhos_4 = sizeof(animacao_4) / sizeof(animacao_4[0]);
@@ -107,6 +109,8 @@ int num_desenhos_5 = sizeof(animacao_5) / sizeof(animacao_5[0]);
 double* animacao_6[] = {frame1_6, frame2_6, frame3_6, frame4_6, frame5_6, frame6_6, frame7_6, frame8_6, frame9_6};
 int num_desenhos_6 = sizeof(animacao_6) / sizeof(animacao_6[0]);
 
+double* animacao_7[] = {frame1_7, frame2_7, frame3_7, frame4_7, frame5_7, frame6_7, frame7_7, frame8_7, frame9_7};
+int num_desenhos_7 = sizeof(animacao_7) / sizeof(animacao_7[0]);
 
 double* animacao_8[] = {frame1_8, frame2_8, frame3_8, frame4_8, frame5_8, frame6_8};
 int num_desenhos_8 = sizeof(animacao_8) / sizeof(animacao_8[0]);
