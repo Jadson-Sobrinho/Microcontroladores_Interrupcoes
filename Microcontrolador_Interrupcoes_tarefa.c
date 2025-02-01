@@ -8,9 +8,11 @@
 #include "lib/animacao_0.h"
 #include "lib/animacao_1.h"
 #include "lib/animacao_2.h"
+#include "lib/animacao_3.h"
 #include "lib/animacao_4.h"
 #include "lib/animacao_5.h"
 #include "lib/animacao_6.h"
+#include "lib/animacao_7.h"
 #include "lib/animacao_8.h"
 #include "pio_matrix.pio.h"
 

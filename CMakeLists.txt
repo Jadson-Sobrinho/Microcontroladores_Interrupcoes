@@ -38,10 +38,12 @@ pico_sdk_init()
 add_executable(Microcontrolador_Interrupcoes_tarefa Microcontrolador_Interrupcoes_tarefa.c
     ./lib/animacao_0.c
     ./lib/animacao_1.c 
-    ./lib/animacao_2.c 
+    ./lib/animacao_2.c
+    ./lib/animacao_3.c 
     ./lib/animacao_4.c 
     ./lib/animacao_5.c 
-    ./lib/animacao_6.c 
+    ./lib/animacao_6.c
+    ./lib/animacao_7.c 
     ./lib/animacao_8.c
     
     )
