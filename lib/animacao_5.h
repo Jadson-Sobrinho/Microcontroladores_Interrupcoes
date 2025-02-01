@@ -18,11 +18,6 @@ extern double quadro13[25];
 extern double quadro14[25];
 extern double quadro15[25];
 extern double quadro16[25];
-extern double quadro17[25];
-extern double quadro18[25];
-extern double quadro19[25];
-extern double quadro20[25];
-extern double quadro21[25];
 
 
 

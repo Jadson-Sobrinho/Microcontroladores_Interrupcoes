@@ -45,6 +45,7 @@ add_executable(Microcontrolador_Interrupcoes_tarefa Microcontrolador_Interrupcoe
     ./lib/animacao_6.c
     ./lib/animacao_7.c 
     ./lib/animacao_8.c
+    ./lib/animacao_9.c
     
     )
 
