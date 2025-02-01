@@ -1,5 +1,7 @@
 # Documentação do Código
 
+**Link do video ensaio:** https://drive.google.com/file/d/1RKfUhU2gMhJ1W4c6ugW6pYYsEvp0AXo-/view?usp=sharing
+
 ## Visão Geral
 Este programa foi desenvolvido para o Raspberry Pi Pico e tem como objetivo controlar uma matriz de LEDs e exibir diferentes animações. O programa gerencia a exibição das animações com base na interação do usuário através de botões físicos para incrementar e decrementar as animações e um temporizador de pisca-pisca.
 
