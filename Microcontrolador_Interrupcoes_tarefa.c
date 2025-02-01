@@ -219,7 +219,6 @@ int main() {
    // Loop principal
     while (true) {
 
-
         if (animacao_ativa) {
             executar_animacao(animacao_atual, valor_led, pio, sm);
         }
