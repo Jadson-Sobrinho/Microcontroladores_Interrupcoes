@@ -1,7 +1,7 @@
 # Documentação do Código
 
 ## Visão Geral
-Este programa foi desenvolvido para o Raspberry Pi Pico e tem como objetivo controlar uma matriz de LEDs e exibir diferentes animações. O programa gerencia a exibição das animações com base na interação do usuário através de botões físicos e um temporizador de pisca-pisca.
+Este programa foi desenvolvido para o Raspberry Pi Pico e tem como objetivo controlar uma matriz de LEDs e exibir diferentes animações. O programa gerencia a exibição das animações com base na interação do usuário através de botões físicos para incrementar e decrementar as animações e um temporizador de pisca-pisca.
 
 ## Dependências
 O código depende das seguintes bibliotecas:
@@ -50,5 +50,5 @@ O código depende das seguintes bibliotecas:
 4. Entra em um loop infinito para verificar e exibir animações sempre que estiverem ativas.
 
 ## Considerações Finais
-Este código permite alternar entre 10 animações diferentes por meio da interação do usuário. A utilização do PIO garante uma atualização eficiente da matriz de LEDs, tornando o sistema responsivo e fluido.
+Este código permite alternar entre 10 animações diferentes por meio da interação do usuário. A utilização do PIO garante uma atualização eficiente da matriz de LEDs.
 
