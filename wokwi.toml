@@ -1,5 +1,0 @@
-[wokwi]
-version = 1
-firmware = 'build/Microcontrolador_Interrupcoes_tarefa.uf2'
-elf = 'build/Microcontrolador_Interrupcoes_tarefa.elf'
-gdbServerPort=3333
